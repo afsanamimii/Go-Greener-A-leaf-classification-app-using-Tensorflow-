@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:background="@color/front">
+
+
+    <ImageView
+        android:layout_marginTop="150dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/logo3"
+        />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="70dp"
+        android:layout_marginTop="555dp"
+        android:layout_marginBottom="50dp"
+        android:gravity="center_horizontal"
+        android:text="Developed by Afsana Mimi(Id:2017-1-60-012)"
+        android:textSize="12dp"
+        android:textColor="@color/names"
+
+        />
+
+
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="70dp"
+        android:layout_marginTop="585dp"
+        android:layout_marginBottom="50dp"
+        android:gravity="center_horizontal"
+        android:text="Supervisor: Dr. Md Sawkat Ali"
+        android:textSize="12dp"
+        android:textColor="@color/names"
+
+        />
+
+
+</RelativeLayout>
