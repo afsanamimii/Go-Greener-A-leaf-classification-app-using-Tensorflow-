@@ -1,7 +1,9 @@
 # Go-Greener-Ml-app-using-Tensorflow-
 
 How To run the app
+
 step1:
+
 open android studio and select option (Open an existing project)
 
 step 2:
