@@ -8,7 +8,7 @@ open android studio and select option (Open an existing project)
 
 step 2:
 
-    i.select Go-Greener-Ml-app-using-Tensorflow
+    i.select the downloaded file
     
     ii.then select lite folder
     
